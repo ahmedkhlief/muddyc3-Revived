@@ -1,6 +1,6 @@
 # Embedded file name: core\config.py
 PORT = 8080
-VERSION = '1.0.1'
+VERSION = '1.1.1'
 AGENTS = dict()
 COMMAND = dict()
 TIME = dict()
